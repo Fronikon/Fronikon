@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 ### My name is **Dmitry Beresnev**.
-I'm a frontend developer from Russia. I'm currently studying at the **Rolling Scopes School**.
+I'm a frontend developer from Russia.
 
 ## 💡 Working with the following tools:
 
